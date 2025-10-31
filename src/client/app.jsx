@@ -81,6 +81,7 @@ export default function App() {
       
       <div className="dashboard-sections">
         <div className="section">
+          <h1>NEW DASHBOARD CHANGES</h1>
           <h3>Today's Appointments ({todayAppointments.length})</h3>
           <div className="appointments-list">
             {todayAppointments.slice(0, 5).map(appointment => (
