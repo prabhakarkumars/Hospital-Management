@@ -1,0 +1,6 @@
+{
+  "scope": "x_hete_hospital_ma",
+  "scopeId": "f04ec2273bb07a1027891964c3e45a6e",
+  "name": "Hospital Man",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
